@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Faker-TAWASI.png">
+<SubTexture name="Faker-TAWASI idle0000" x="0" y="0" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+<SubTexture name="Faker-TAWASI idle0001" x="1195" y="0" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+<SubTexture name="Faker-TAWASI idle0002" x="0" y="1588" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+<SubTexture name="Faker-TAWASI idle0003" x="1195" y="1588" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+<SubTexture name="Faker-TAWASI idle0004" x="0" y="3176" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+<SubTexture name="Faker-TAWASI idle0005" x="1195" y="3176" width="1195" height="1588" frameX="0" frameY="0" frameWidth="1195" frameHeight="1588" />
+</TextureAtlas>

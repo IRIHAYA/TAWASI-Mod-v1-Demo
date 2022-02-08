@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TAWASI.png"><SubTexture name="TAWASI idle0000" x="0" y="0" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI idle0001" x="704" y="0" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI idle0002" x="1408" y="0" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI idle0003" x="2112" y="0" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI idle0004" x="2816" y="0" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI idle0005" x="0" y="1004" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0000" x="704" y="1004" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0001" x="1408" y="1004" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0002" x="2112" y="1004" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0003" x="2816" y="1004" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0004" x="0" y="2008" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI down0005" x="704" y="2008" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0000" x="1408" y="2008" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0001" x="2112" y="2008" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0002" x="2816" y="2008" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0003" x="0" y="3012" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0004" x="704" y="3012" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI up0005" x="1408" y="3012" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0000" x="2112" y="3012" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0001" x="2816" y="3012" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0002" x="0" y="4016" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0003" x="704" y="4016" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0004" x="1408" y="4016" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI left0005" x="2112" y="4016" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0000" x="2816" y="4016" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0001" x="0" y="5020" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0002" x="704" y="5020" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0003" x="1408" y="5020" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0004" x="2112" y="5020" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+<SubTexture name="TAWASI right0005" x="2816" y="5020" width="704" height="1004" frameX="0" frameY="0" frameWidth="704" frameHeight="1004" />
+</TextureAtlas>

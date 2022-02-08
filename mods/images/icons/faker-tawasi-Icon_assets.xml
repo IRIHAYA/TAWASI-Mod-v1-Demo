@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faker-tawasi-Icon_assets.png">
+<SubTexture name="normal0000" x="0" y="0" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+<SubTexture name="losing0000" x="162" y="0" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+<SubTexture name="winning0000" x="0" y="153" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+<SubTexture name="winning0001" x="162" y="153" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+<SubTexture name="winning0002" x="0" y="306" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+<SubTexture name="winning0003" x="162" y="306" width="162" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="153" />
+</TextureAtlas>

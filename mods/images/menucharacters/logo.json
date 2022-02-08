@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M WEEK1 Idle",
+	"confirm_anim": "M WEEK1 HEY",
+	"position": [
+		237,
+		113
+	],
+	"scale": 0.7,
+	"image": "Menu_Logo"
+}
