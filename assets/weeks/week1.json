@@ -1,0 +1,49 @@
+{
+	"storyName": "Tawasi",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sun",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tawasi",
+			"TAWASI",
+			[
+				136,
+				255,
+				255
+			]
+		],
+		[
+			"Unhappy",
+			"tawasi",
+			[
+				136,
+				255,
+				255
+			]
+		],
+		[
+			"Dream Toogus",
+			"tawasi",
+			[
+				136,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"logo",
+		"week1"
+	],
+	"weekName": "WeekT"
+}

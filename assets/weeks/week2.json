@@ -1,0 +1,40 @@
+{
+	"storyName": "Faker",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "static",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Faker",
+			"faker-tawasi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Confronting Yourself",
+			"faker-tawasi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"logo",
+		"week2"
+	],
+	"weekName": "WeekF"
+}
