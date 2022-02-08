@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TAWASI Idle"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TAWASI Down"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TAWASI Up"
+		},
+		{
+			"offsets": [
+				111,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TAWASI Left"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TAWASI Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "HAHAHA",
+			"loop": true,
+			"name": "TAWASI HAHAHA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Faker-TAWASI",
+	"position": [
+		-220,
+		-420
+	],
+	"healthicon": "faker-tawasi",
+	"flip_x": true,
+	"healthbar_colors": [
+		109,
+		196,
+		193
+	],
+	"camera_position": [
+		90,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

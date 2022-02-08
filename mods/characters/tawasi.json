@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TAWASI idle"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TAWASI down"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TAWASI up"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TAWASI right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TAWASI left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TAWASI",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "tawasi",
+	"flip_x": true,
+	"healthbar_colors": [
+		136,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
