@@ -1,0 +1,75 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "cloudy",
+		"player1": "bf",
+		"player2": "faker-tawasi",
+		"player3": null,
+		"events": [
+			[
+				111857.142857143,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"4",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"5",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"6",
+						"0, 0, 0, 0, 1"
+					],
+					[
+						"MoveArrow",
+						"7",
+						"0, 0, 0, 0, 1"
+					]
+				]
+			],
+			[
+				121285.714285714,
+				[
+					[
+						"Play Animation",
+						"HAHAHA",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 105,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Faker"
+	}
+}
